@@ -35,5 +35,6 @@ while True:
     should_continue = input("Comtinue(y/n): ")
 
     if should_continue == 'n':
+        print("Goodbye")
         break
     
